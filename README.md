@@ -1,4 +1,4 @@
-Olfactory
+Pink Panther
 ==========
 
 [![Build Status](https://travis-ci.org/delner/pink_panther.svg?branch=master)](https://travis-ci.org/delner/pink_panther) ![Gem Version](https://badge.fury.io/rb/pink_panther.svg)
